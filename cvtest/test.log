@@ -1,0 +1,230 @@
+2011-12-17 16:16:13,797 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:16:13,800 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:16:17,193 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:16:17,193 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:38:44,626 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:38:44,630 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:38:48,143 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:38:48,144 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:38:53,201 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:38:53,201 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:39:39,528 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:39:39,534 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:39:43,485 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:39:43,485 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:39:49,961 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:39:49,961 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:45:07,194 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:45:07,199 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:53:28,889 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:53:28,892 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:53:35,341 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:53:35,341 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:53:35,344 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:53:35,344 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:55:39,434 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:55:39,437 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:55:40,001 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:55:40,001 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:55:40,443 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:55:40,443 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:56:58,860 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:56:58,864 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:56:59,199 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:56:59,200 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:56:59,203 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:56:59,203 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:57:24,999 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:57:25,004 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:57:25,773 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:57:25,773 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 16:57:25,775 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 16:57:25,776 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-17 17:38:25,254 [main] ERROR com.xuggle.ferry.JNILibraryLoader - Could not load library: xuggle-xuggler; version: 3; Visit http://www.xuggle.com/xuggler/faq/ to find common solutions to this problem
+2011-12-17 17:40:03,153 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-17 17:40:03,157 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-19 15:19:44,347 [main] ERROR com.xuggle.ferry.JNILibraryLoader - Could not load library: xuggle-xuggler; version: 3; Visit http://www.xuggle.com/xuggler/faq/ to find common solutions to this problem
+2011-12-19 15:20:10,904 [main] ERROR com.xuggle.ferry.JNILibraryLoader - Could not load library: xuggle-xuggler; version: 3; Visit http://www.xuggle.com/xuggler/faq/ to find common solutions to this problem
+2011-12-19 15:21:27,637 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-19 15:21:27,641 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-19 15:21:30,659 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-19 15:21:30,659 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-20 13:15:40,597 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7da887e0] slice end not reached but screenspace end (-8 left E24D99, score= -472)
+2011-12-20 13:16:39,622 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7da887e0] slice end not reached but screenspace end (-8 left BB144A, score= -875)
+2011-12-20 13:20:20,779 [main] ERROR org.ffmpeg - [mpeg4 @ 0x9ce3200] slice end not reached but screenspace end (-8 left 182082, score= -725)
+2011-12-20 13:21:08,986 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-20 13:21:08,987 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-20 13:21:08,999 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-20 13:21:08,999 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-20 13:32:46,370 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7c810da0] slice end not reached but screenspace end (-8 left 001C0A, score= -629)
+2011-12-20 13:32:55,653 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-20 13:32:55,660 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-20 13:34:32,960 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2011-12-20 13:34:32,961 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2011-12-20 13:35:42,393 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7cff12c0] slice end not reached but screenspace end (-8 left E7BA28, score= -1593)
+2012-02-15 14:50:02,836 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-15 14:50:02,853 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-15 14:50:06,042 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-15 14:50:06,042 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-15 14:50:18,983 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-15 14:50:18,983 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-15 14:50:18,988 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-15 14:50:18,989 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-22 18:15:49,467 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-22 18:15:49,470 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-22 18:15:57,245 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-22 18:15:57,246 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-22 18:16:17,779 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-22 18:16:17,779 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 15:54:09,865 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7d9ad0a0] slice end not reached but screenspace end (-8 left 4E932A, score= -1659)
+2012-02-23 15:54:31,001 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7d9ad0a0] slice end not reached but screenspace end (-8 left 2ADE16, score= -2226)
+2012-02-23 15:54:45,643 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 15:54:45,737 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 15:55:19,489 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7c937440] slice end not reached but screenspace end (-8 left 001C0A, score= -629)
+2012-02-23 15:56:56,508 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 15:56:56,609 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 15:58:01,091 [main] ERROR org.ffmpeg - [mpeg4 @ 0xa0d6750] frame skip 8
+2012-02-23 15:58:01,091 [main] ERROR org.ffmpeg - [mpeg4 @ 0xa0d6750] frame skip 8
+2012-02-23 15:58:01,091 [main] ERROR org.ffmpeg - [mpeg4 @ 0xa0d6750] frame skip 8
+2012-02-23 15:58:01,091 [main] ERROR org.ffmpeg - [mpeg4 @ 0xa0d6750] frame skip 8
+2012-02-23 15:58:18,606 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 15:58:18,606 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 15:58:27,930 [main] ERROR org.ffmpeg - [mpeg4 @ 0xa0d6750] slice end not reached but screenspace end (-8 left 2A5AC6, score= -567)
+2012-02-23 15:59:13,335 [main] ERROR org.ffmpeg - [mpeg4 @ 0xa0d6750] slice end not reached but screenspace end (-8 left 2070E7, score= -1451)
+2012-02-23 15:59:42,809 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 15:59:42,809 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:02:14,374 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:02:14,374 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:02:30,177 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bc89bc0] slice end not reached but screenspace end (-8 left 047832, score= -418)
+2012-02-23 16:03:11,118 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bc89bc0] slice end not reached but screenspace end (-8 left AB01C4, score= -1588)
+2012-02-23 16:03:40,962 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bc89bc0] slice end not reached but screenspace end (-8 left D852DB, score= -2447)
+2012-02-23 16:03:47,805 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bc89bc0] slice end not reached but screenspace end (-8 left D9CE8A, score= -2623)
+2012-02-23 16:04:01,580 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:04:01,581 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:04:20,600 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7cf4f580] slice end not reached but screenspace end (-8 left 0F59BE, score= -528)
+2012-02-23 16:04:53,776 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7cf4f580] slice end not reached but screenspace end (-8 left 54CD82, score= -1222)
+2012-02-23 16:06:07,366 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7d9a9980] slice end not reached but screenspace end (-8 left 743410, score= -76)
+2012-02-23 16:06:13,327 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:06:13,327 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:07:08,848 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7d9a9980] slice end not reached but screenspace end (-8 left 3369FC, score= -990)
+2012-02-23 16:08:04,202 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:08:04,202 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:14:42,934 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:42,935 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:42,935 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:42,958 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:42,958 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:42,963 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:42,967 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] AVC: nal size 3965
+2012-02-23 16:14:43,112 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,112 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,112 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,112 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,112 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,113 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,124 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,124 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,129 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,133 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] AVC: nal size 3965
+2012-02-23 16:14:43,152 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,169 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,169 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,169 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,169 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,170 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,170 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,170 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,170 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,170 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,170 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,171 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,171 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,171 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,171 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,181 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,181 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,186 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,191 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,196 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] AVC: nal size 18343
+2012-02-23 16:14:43,196 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,197 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,208 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] number of reference frames exceeds max (probably corrupt input), discarding one
+2012-02-23 16:14:43,208 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,212 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,220 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] Missing reference picture
+2012-02-23 16:14:43,226 [main] ERROR org.ffmpeg - [h264 @ 0x7c7d4cb0] AVC: nal size 18343
+2012-02-23 16:15:46,424 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:15:46,425 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:17:32,412 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:17:32,412 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:19:28,033 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:19:28,034 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:20:54,074 [main] ERROR org.ffmpeg - [mpeg4 @ 0x8c3fd30] slice end not reached but screenspace end (-8 left E24D99, score= -472)
+2012-02-23 16:21:59,139 [main] ERROR org.ffmpeg - [mpeg4 @ 0x8c3fd30] slice end not reached but screenspace end (-8 left BB144A, score= -875)
+2012-02-23 16:25:21,644 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left 825BA7, score= -71)
+2012-02-23 16:25:25,455 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left 68A32D, score= -139)
+2012-02-23 16:26:03,915 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:26:03,915 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:26:51,895 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left BD5AF3, score= -1815)
+2012-02-23 16:27:01,166 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left 0E03E6, score= -1973)
+2012-02-23 16:27:32,589 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left F32009, score= -2477)
+2012-02-23 16:27:47,052 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left FBF54D, score= -2719)
+2012-02-23 16:28:11,765 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left D062D0, score= -3288)
+2012-02-23 16:28:35,499 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bae74e0] slice end not reached but screenspace end (-8 left 91F645, score= -3785)
+2012-02-23 16:29:01,427 [main] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:29:01,427 [main] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:30:08,764 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7d9a9980] slice end not reached but screenspace end (-8 left F41809, score= -1246)
+2012-02-23 16:31:25,499 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7d9a9980] slice end not reached but screenspace end (-8 left 90D58B, score= -2244)
+2012-02-23 16:32:41,971 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7bad3f50] slice end not reached but screenspace end (-8 left 87C080, score= -362)
+2012-02-23 16:32:57,692 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:32:57,692 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:34:48,118 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:34:48,119 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:35:58,086 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:35:58,086 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:36:49,532 [main] ERROR org.ffmpeg - [mpeg4 @ 0x8aa5280] slice end not reached but screenspace end (-8 left BD6AD2, score= -1567)
+2012-02-23 16:37:31,437 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:37:31,438 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:38:56,249 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:38:56,249 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:40:58,139 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:40:58,139 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:42:15,780 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7c7e2cc0] slice end not reached but screenspace end (-8 left 82A5D7, score= -2239)
+2012-02-23 16:44:13,372 [main] ERROR org.ffmpeg - [mpeg4 @ 0xcb71fe0] slice end not reached but screenspace end (-8 left 437415, score= -2281)
+2012-02-23 16:44:19,617 [main] ERROR org.ffmpeg - [mpeg4 @ 0xcb71fe0] slice end not reached but screenspace end (-8 left 8C50F6, score= -2450)
+2012-02-23 16:48:12,197 [main] ERROR org.ffmpeg - [mpeg4 @ 0x7c92f610] slice end not reached but screenspace end (-8 left ECF810, score= -1358)
+2012-02-23 16:48:52,090 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:48:52,090 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:48:52,093 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:48:52,094 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:48:52,094 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:48:52,094 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:48:52,094 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:48:52,095 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 16:48:52,096 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 16:48:52,096 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)
+2012-02-23 17:22:17,275 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling Container (../../../../../../../csrc/com/xuggle/xuggler/Container.cpp:83)
+2012-02-23 17:22:17,275 [Finalizer] DEBUG com.xuggle.xuggler - Closing dangling StreamCoder (../../../../../../../csrc/com/xuggle/xuggler/StreamCoder.cpp:82)

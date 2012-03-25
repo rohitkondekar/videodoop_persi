@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/elasticsearch-0.19.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/jna-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/lucene-analyzers-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/lucene-highlighter-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/lucene-memory-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/elasticsearch-0.19.0/lib/lucene-queries-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacpp.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv-android-arm.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/opencv/javacv jars/jna.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/xuggler/share/java/jars/commons-cli.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/xuggler/share/java/jars/logback-classic.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/xuggler/share/java/jars/logback-core.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/xuggler/share/java/jars/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/xuggler/share/java/jars/xuggle-xuggler.jar"/>
+	<classpathentry kind="lib" path="/home/user/installs/xuggler/share/java/jars/xuggle-xuggler-test.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
